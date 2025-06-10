@@ -1851,13 +1851,13 @@
     width: 70px;
     height: 70px;
   }
-  /* Start "Research & Teaching Hospitals", "Telemedicine & Virtual Care" & "Rehabilitation Centers" Demo Style CSS
-  ==============================================================*/
+
   .section-title-top-warp {
     margin-bottom: 35px;
   }
   .section-title-top-warp h2 {
-    font-size: 30px;
+    font-size: 16px;
+    font-weight: 400;
   }
   .top-area.rth-top-area .container-fluid {
     padding-left: calc(var(--bs-gutter-x) * 0.5);

@@ -250,29 +250,6 @@ Preloader Area CSS
     transform: rotateY(360deg);
   }
 }
-.buy-now-btn {
-  position: fixed;
-  right: 20px;
-  z-index: 99;
-  top: 50%;
-  transform: translateY(-50%);
-  border-radius: 30px;
-  display: flex;
-  align-items: center;
-  background-color: #82b440;
-  color: #ffffff !important;
-  padding: 7px 12px;
-  font-size: 14px;
-  font-weight: 600;
-}
-.buy-now-btn img {
-  margin-right: 7px;
-  max-width: 12px;
-}
-.buy-now-btn:hover {
-  background-color: #06a3da;
-  color: #ffffff !important;
-}
 
 /*================================================
 Top Header Area CSS
