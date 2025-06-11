@@ -942,8 +942,9 @@ Search Modal Style CSS
   }
   .navbar-area {
     background-color: #ffffff;
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    height: 80px;
   }
   .main-navbar {
     display: none;
@@ -21311,8 +21312,8 @@ height: 250px;
 .logo h3{
   position: relative;
   left: 80px;
-  font-size: 18px;
-  bottom: 30px;
+  font-size: 24px;
+  bottom: 50px;
   font-weight: 900px;
   color: #1DBFCC;
 }
