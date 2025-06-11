@@ -20495,7 +20495,7 @@ MC Testimonials Area CSS
 .mc-testimonials-card {
   border-radius: 30px;
   border: 1px solid #F8F8F8;
-  background: #ffffff;
+  background: #E86548;
   padding: 50px 55px;
   margin-top: 10px;
   margin-left: 5px;
@@ -20505,6 +20505,7 @@ MC Testimonials Area CSS
 }
 .mc-testimonials-card p {
   margin-bottom: 0;
+  color: #fff;
 }
 .mc-testimonials-card .info {
   display: flex;
