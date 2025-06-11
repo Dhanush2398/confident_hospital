@@ -21267,8 +21267,9 @@ MC Footer Area CSS
 }
 .mc-services-card img {
   height: 150px;
-  width: 300px;
+  width: 311px;
 }
+
 
 .mc-services-card {
   height: 500px;
@@ -21292,4 +21293,16 @@ height: 250px;
  .single-features{
   height: 350px;
 }
+}
+
+.logo img{
+  height: 50px;
+}
+
+.navbar-brand img{
+  height: 100px;
+}
+
+.footer-logo img{
+  height: 100px;
 }
