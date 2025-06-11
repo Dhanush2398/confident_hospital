@@ -5839,8 +5839,7 @@
     margin: 0 50px;
     border-radius: 20px;
   }
-  /* End "Research & Teaching Hospitals", "Telemedicine & Virtual Care" & "Rehabilitation Centers" Demo Style CSS
-  ==============================================================*/
+ 
 }
 /* Start "Maternity Clinic" & "Cardiac Care Clinic" Responsive CSS
 =====================================================================*/
@@ -5880,6 +5879,7 @@
     transform: unset;
     margin-top: 0;
     margin-bottom: 20px;
+    font-weight: 900;
   }
   .maternity-clinic-banner-content h1 {
     font-size: 28px;
