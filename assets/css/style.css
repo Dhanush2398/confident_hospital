@@ -19658,7 +19658,7 @@ RC Copyright Area CSS
   color: #486683;
 }
 .heebo-and-nunito-sans-fonts .h1, .heebo-and-nunito-sans-fonts .h2, .heebo-and-nunito-sans-fonts .h3, .heebo-and-nunito-sans-fonts .h4, .heebo-and-nunito-sans-fonts .h5, .heebo-and-nunito-sans-fonts .h6, .heebo-and-nunito-sans-fonts h1, .heebo-and-nunito-sans-fonts h2, .heebo-and-nunito-sans-fonts h3, .heebo-and-nunito-sans-fonts h4, .heebo-and-nunito-sans-fonts h5, .heebo-and-nunito-sans-fonts h6 {
-  color: #002345;
+  color: #fff;
   font-family: "Heebo", sans-serif;
   font-weight: 500;
 }
@@ -19669,7 +19669,7 @@ RC Copyright Area CSS
   color: #1DBFCC;
 }
 .heebo-and-nunito-sans-fonts p {
-  color: #486683;
+  color: #fff;
   font-family: "Nunito Sans", sans-serif;
 }
 
@@ -20495,7 +20495,7 @@ MC Testimonials Area CSS
 .mc-testimonials-card {
   border-radius: 30px;
   border: 1px solid #F8F8F8;
-  background: #ffffff;
+  background: #E86548;
   padding: 50px 55px;
   margin-top: 10px;
   margin-left: 5px;
