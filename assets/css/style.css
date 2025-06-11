@@ -719,12 +719,12 @@ Navbar Area CSS
   z-index: 9991;
   position: absolute;
   right: 60px;
-  top: -28px;
+  top: 58px;
 }
 .others-option-for-responsive .dot-menu .inner {
   display: flex;
   align-items: center;
-  height: 30px;
+  
 }
 .others-option-for-responsive .dot-menu .inner .circle {
   height: 5px;
@@ -21305,4 +21305,14 @@ height: 250px;
 
 .footer-logo img{
   height: 100px;
+}
+
+
+.logo h3{
+  position: relative;
+  left: 80px;
+  font-size: 18px;
+  bottom: 30px;
+  font-weight: 900px;
+  color: #1DBFCC;
 }
