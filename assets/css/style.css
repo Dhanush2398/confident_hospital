@@ -16605,7 +16605,7 @@ RTH About Area CSS
 .rth-about-quote .right h5 {
   margin-bottom: 0;
   font-weight: 400;
-  font-size: 16px;
+  font-size: 18px;
   color: #002345;
   line-height: 1.7;
 }
@@ -19669,7 +19669,7 @@ RC Copyright Area CSS
   color: #1DBFCC;
 }
 .heebo-and-nunito-sans-fonts p {
-  color: #fff;
+  color: #486683;
   font-family: "Nunito Sans", sans-serif;
 }
 
@@ -20495,7 +20495,7 @@ MC Testimonials Area CSS
 .mc-testimonials-card {
   border-radius: 30px;
   border: 1px solid #F8F8F8;
-  background: #E86548;
+  background: #ffffff;
   padding: 50px 55px;
   margin-top: 10px;
   margin-left: 5px;
