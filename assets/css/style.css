@@ -973,19 +973,19 @@ Main Slides Area CSS
   background-image: url(../images/main-slides/slides-bg3.jpg);
 }
 .main-slides-item.item-bg4 {
-  background-image: url(../images/main-slides/slides-bg4.jpg);
+  background-image: url(../images/banner/1.webp);
 }
 .main-slides-item.item-bg4 .main-slides-content {
   max-width: 675px;
 }
 .main-slides-item.item-bg5 {
-  background-image: url(../images/main-slides/slides-bg5.jpg);
+  background-image: url(../images/banner/2.jpg);
 }
 .main-slides-item.item-bg5 .main-slides-content {
   max-width: 675px;
 }
 .main-slides-item.item-bg6 {
-  background-image: url(../images/main-slides/slides-bg6.jpg);
+  background-image: url(../images/banner/3.jpg);
 }
 .main-slides-item.item-bg6 .main-slides-content {
   max-width: 675px;
@@ -21319,3 +21319,22 @@ height: 250px;
   color: #1DBFCC;
   text-align: center;
 }
+
+.main-slides-item {
+    padding-top: 95px;
+    padding-bottom: 170px;
+    position: relative;
+    z-index: 1;
+  }
+  .main-slides-item::before {
+    position: absolute;
+    content: "";
+    left: 0;
+    right: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background-color: #ffffff;
+    z-index: -1;
+    opacity: 0.5;
+  }
