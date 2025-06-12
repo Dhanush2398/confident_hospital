@@ -16611,7 +16611,7 @@ RTH About Area CSS
 .rth-about-quote .right h5 {
   margin-bottom: 0;
   font-weight: 400;
-  font-size: 18px;
+  font-size: 16px !important;
   color: #002345;
   line-height: 1.7;
 }
