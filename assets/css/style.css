@@ -13948,9 +13948,11 @@ OC Features Area CSS
   padding: 25px;
 }
 .oc-features-card .content h3 {
-  font-size: 19.5px;
+  font-size: 40px;
   font-weight: 600;
   margin-bottom: 12px;
+  color: #fff;
+  text-align: center;
 }
 .oc-features-card .content p {
   margin-bottom: 0;
@@ -13967,6 +13969,8 @@ OC Features Area CSS
 .oc-features-card:hover {
   transform: translateY(-5px);
 }
+
+
 
 /*================================================
 OC About Area CSS
@@ -21345,3 +21349,10 @@ height: 250px;
 .main-slides-item.item-bg4,.item-bg5,.item-bg6{
   height: 800px;
 }
+
+.oc-features-card img{
+  height: 250px;
+  width: 100%;
+}
+
+
